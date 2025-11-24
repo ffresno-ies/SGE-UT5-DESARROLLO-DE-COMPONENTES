@@ -52,8 +52,8 @@ Cada documento desarrolla un aspecto clave del proceso:
 ## 📎 Estructura recomendada del repositorio
 
 ```
-📦 odoo-modulo-ejemplo
- ┣ 📁 custom-addons/
+📦 odoo_dev
+ ┣ 📁 my_addons/
  ┃ ┗ 📁 tu_modulo/
  ┃   ┣ 📁 models/
  ┃   ┣ 📁 views/
