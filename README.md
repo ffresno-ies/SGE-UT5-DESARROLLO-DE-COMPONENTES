@@ -68,7 +68,7 @@ Cada documento desarrolla un aspecto clave del proceso:
 
 ## 💬 Contacto
 
-Para cualquier duda o tutoría, recuerda **solicitar cita previa**.
+Para cualquier duda o tutoría, recuerda **escribierme a ffresno@iesjuanbosco.es**.
 💻 *Fernando del Fresno García*
 
 ---
