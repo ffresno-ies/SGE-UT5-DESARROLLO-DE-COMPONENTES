@@ -1,4 +1,4 @@
-# 🚀 Desarrollo de tu primer módulo en Odoo
+# 🚀 Desarrolla tu primer módulo en Odoo
 
 ### **Tema 5 — Sistemas de Gestión Empresarial**
 
